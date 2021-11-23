@@ -1,5 +1,5 @@
 {
-  "name": "shared",
+  "name": "@pdom/shared",
   "version": "1.0.0",
   "main": "lib/index.js",
   "license": "MIT",
