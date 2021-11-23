@@ -1,5 +1,5 @@
 {
-  "name": "exemple-app",
+  "name": "@pdom/exemple-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
