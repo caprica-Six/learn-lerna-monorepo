@@ -11,5 +11,8 @@
     "packages": [
       "packages/*"
     ]
+  },
+  "scripts": {
+    "build": "lerna run build"
   }
 }
