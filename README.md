@@ -1,4 +1,4 @@
-# Learn how to Start with Learna monorepo
+# Learn how to Start with Lerna monorepo
 
 Here's how to start with Lerna and set up different projects with an example of sharable components + Namespace all the packages.
 
